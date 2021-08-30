@@ -29,5 +29,4 @@ var questions = [
 
 
 ];
-//Just checking my console log :)
 console.log(questions);
