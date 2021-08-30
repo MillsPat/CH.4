@@ -1,5 +1,4 @@
 //Questions will reflect the show "The Office"
-
 var questions = [
     {
         title: "How Many Players Can You Have on the Field at one time?",
